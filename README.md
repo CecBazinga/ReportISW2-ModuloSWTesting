@@ -3,7 +3,7 @@
 Nota: tutte le immagini presenti nel report sono disponibili nella qualità originale nella cartella "Immagini" suddivise concettualmente in base
 all coverage cui riferivano.
 
-Di seguito vengono riportate i link delle classi di test realizzate :
+Di seguito vengono riportati i link delle classi di test realizzate :
 
 ------------------PROGETTO BOOKKEEPER----------------------------------------------------------------------------
 
