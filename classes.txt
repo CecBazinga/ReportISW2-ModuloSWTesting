@@ -1,0 +1,4 @@
+org.apache.bookkeeper.client.BookKeeperAdmin
+org.apache.openjpa.lib.util.ClassUtil
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier
+org.apache.bookkeeper.util.ZkUtils
